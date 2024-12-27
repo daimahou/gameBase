@@ -9,12 +9,12 @@
 # Heaps
 --cmd haxelib --always git hlsdl https://github.com/HaxeFoundation/hashlink.git master libs/sdl
 --cmd haxelib --always git hldx https://github.com/HaxeFoundation/hashlink.git master libs/directx
---cmd haxelib --always git heaps https://github.com/deepnight/heaps.git
+--cmd haxelib --always git heaps https://github.com/daimahou/heaps.git
 
 # Deepnight
 --cmd haxelib --always install redistHelper
---cmd haxelib --always git ldtk-haxe-api https://github.com/deepnight/ldtk-haxe-api.git
---cmd haxelib --always git deepnightLibs https://github.com/deepnight/deepnightLibs.git
+--cmd haxelib --always git ldtk-haxe-api https://github.com/daimahou/ldtk-haxe-api.git
+--cmd haxelib --always git deepnightLibs https://github.com/daimahou/deepnightLibs.git
 
 # Done
 --cmd haxelib list
